@@ -37,7 +37,5 @@ To use the package follow the steps:
 - from logger import log / from logger import email_log  
 - wrap the functions with @log / @email_log
 
-# License
-The package designed by Vladimir Iakimenko (https://github.com/VladIakimenko).  
 Free for distribution, modification or contribution.  
 With feedback address to v_yakimenko@inbox.ru
